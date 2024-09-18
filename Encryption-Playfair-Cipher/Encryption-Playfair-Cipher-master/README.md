@@ -87,6 +87,6 @@ Proyek ini bersifat open-source dan tersedia di bawah [Lisensi MIT](LICENSE).
 
 Jika Anda ingin melakukan perbaikan atau kontribusi lebih lanjut terhadap proyek ini, jangan ragu untuk fork dan buat permintaan tarik (pull request).
 
-### Terima Kasih!
+### Happy Encryption!
 
 ---
