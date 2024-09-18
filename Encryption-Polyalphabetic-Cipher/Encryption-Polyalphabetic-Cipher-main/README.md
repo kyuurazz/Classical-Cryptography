@@ -12,8 +12,6 @@
 
 ### Cara Kerja
 
-![cara_kerja](https://github.com/kyuurazz/Encryption-Caesar-Cipher/assets/91085882/103b209a-0089-4c76-9f05-828fb65b1748)
-
 <p>Enkripsi Polyalphabetic Cipher bekerja dengan cara menggantikan setiap karakter dalam teks asli (plaintext) dengan karakter terenkripsi yang mungkin berbeda berdasarkan aturan yang ditentukan oleh sebuah kunci. Saya akan jelaskan setiap fungsi dan bagian dari program tersebut.</p>
 
 1. Fungsi `polyalphabet_cipher_encrypt(plaintext, key)`: 
@@ -40,14 +38,4 @@ Selanjutnya, program utama adalah sebuah loop tak terbatas (while True) yang mem
 
 Seluruh program ini memberikan pengguna kemampuan untuk mengenkripsi dan mendekripsi teks menggunakan sandi polialfabet dengan kunci yang telah diinputkan.
 
-## Output
-
-- Encrypt
-
-![encryption](https://github.com/kyuurazz/Encryption-Caesar-Cipher/assets/91085882/a58886c6-e6f5-4b83-a3a7-bb1769dc89e0)
-
-- Decrypt
-
-![decryption](https://github.com/kyuurazz/Encryption-Caesar-Cipher/assets/91085882/4d37f18c-8569-44bf-80da-87d9260abd7d)
-
-## Terima Kasih!
+## Happy Encryption!
