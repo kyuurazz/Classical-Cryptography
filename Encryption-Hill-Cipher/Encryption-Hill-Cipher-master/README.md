@@ -48,18 +48,4 @@
 10. **Penghapusan Data**:
     - Pengguna dapat mengakses halaman `data.php` untuk melihat hasil enkripsi Hill Cipher yang telah disimpan dalam database. Mereka juga dapat memilih untuk menghapus hasil tertentu dengan mengklik tautan yang sesuai di halaman `data.php`. Penghapusan ini diimplementasikan di halaman `delete.php`.
 
-## Output
-
-- Encrypt
-
-![encryption1](https://github.com/kyuurazz/Encryption-Polyalphabetic-Cipher/assets/91085882/5ff8e1b4-a452-4fe2-a33a-f2ad8b3f4e5f)
-
-- Decrypt
-
-![encryption2](https://github.com/kyuurazz/Encryption-Polyalphabetic-Cipher/assets/91085882/e8e6f458-07ac-4117-8048-3eb727337303)
-
-- Result
-
-![result](https://github.com/kyuurazz/Encryption-Polyalphabetic-Cipher/assets/91085882/27db19a5-8cd8-4cbd-953c-670bf5b38e00)
-
-## Terima Kasih!
+## Happy Encryption!
