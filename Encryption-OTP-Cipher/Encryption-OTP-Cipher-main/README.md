@@ -57,4 +57,4 @@ Tugas ini menunjukkan implementasi algoritma enkripsi One Time Pad (OTP) menggun
 
 Jangan ragu untuk menjelajahi dan memodifikasi kode untuk pembelajaran dan eksperimen. Selamat coding!
 
-### Terima Kasih!
+### Happy Encryption!
